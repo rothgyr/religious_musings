@@ -2,7 +2,7 @@
 
 ## Hypothesis
 
-All men are saved eventually - the Second Resurrection allows for all those except who
+All men are saved eventually? That the Second Resurrection allows for all those except who
 have committed the unpardonable sin (D&C 130: 27), to have an opportunity to attain
 the celestial kingdom.
 
@@ -318,7 +318,7 @@ After that, we get a description of those who are Terrestrial. Note that it is a
 description - as of verse 80 we don't have anything about which resurrection, nor that
 their bodies are even resurrected in this state.
 
-85: Telestial persons are not redeemed `until the last resurrection, until the Lord,
+85: Telestial persons are not `redeemed from the devil until the last resurrection, until the Lord,
 even Christ the Lamb, shall have finished his work`.
 
 ```
@@ -336,7 +336,18 @@ But what is the `eternal world`? The spirit world? The resurrected world? As of 
 this question remains unanswered.
 
 Also of note: Jesus did not minister to the damned, but sent "angels" (think Peter,
-James and John) to the damned to preach the gospel (D&C 138:29-31)
+James and John) to the damned to preach the gospel (D&C 138:29-31):
+
+```
+29 [...] I perceived that the Lord went not in person among the wicked and the disobedient 
+who had rejected the truth [...];
+
+30 But [...] among the righteous, he [...] appointed messengers, [..]] and commissioned 
+them to go forth [...] to them that were in darkness [...]
+
+31 And the chosen messengers went forth [...] to the captives who were bound, even unto
+all who would repent of their sins and receive the gospel.
+```
 
 D&C 130 states that what we attain to in this life gives us the more advantage - or in
 King Follet Sermon terms - a higher rung in the ladder, a rung that will be filled
@@ -375,16 +386,19 @@ receive the like blessings; and your expectations and hopes are far above what m
 conceive; for why has God revealed it to us?
 ```
 
-The entirety of of section 76 was given in response to their wonder at translating this:
+The entirety of of section 76 was given in response to their wonder at translating this
+piece of the original King James text:
 
 ```
-29 And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
+29 And shall come forth; they that have done good, unto the resurrection of life; and 
+they that have done evil, unto the resurrection of damnation.
 ```
 
-To this:
+To this newly translated piece:
 
 ```
-And shall come forth; they who have done good, in the resurrection of the just; and they who have done evil, in the resurrection of the unjust.
+And shall come forth; they who have done good, in the resurrection of the just; 
+and they who have done evil, in the resurrection of the unjust.
 ```
 
 Namely, that those who did not repent in this life will pay prices for their sins, but
