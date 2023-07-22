@@ -307,19 +307,19 @@ Takeaways: People can leave the church and still be saved. It will just be in th
 second resurrection - the resurrection of the unjust and sinners.
 
 D&C 76:50+ states that the resurrection of the just has all those who recieved the
-priesthood (Temple ordinances)
+priesthood (Temple ordinances) and describes them as those of the church of the 
+firstborn, those who stayed faithful, those who are celestial - the people who will 
+rise in the morning of the First Resurrection, who will be resurrected when Jesus 
+comes again in His glory.
 
-Describes those of the church of the firstborn, those who stayed faithful, those who
-are celestial - first resurrection.
-
-70: `These are they whose bodies are celestial`
+In verse 70: `These are they whose bodies are celestial`
 
 After that, we get a description of those who are Terrestrial. Note that it is a
 description - as of verse 80 we don't have anything about which resurrection, nor that
 their bodies are even resurrected in this state.
 
-85: Telestial persons are not `redeemed from the devil until the last resurrection, until the Lord,
-even Christ the Lamb, shall have finished his work`.
+In verse 85: Telestial persons are not `redeemed from the devil until the last 
+resurrection, until the Lord, even Christ the Lamb, shall have finished his work`.
 
 ```
 86 These are they who receive not of his fulness in the eternal world, but of the Holy
@@ -332,28 +332,31 @@ minister for them, or who are appointed to be ministering spirits for them; for 
 be heirs of salvation.
 ```
 
-But what is the `eternal world`? The spirit world? The resurrected world? As of v88,
-this question remains unanswered.
+But what is the `eternal world` in v86? The spirit world? The resurrected world? As of 
+v88, this question remains unanswered.
 
-Also of note: Jesus did not minister to the damned, but sent "angels" (think Peter,
-James and John) to the damned to preach the gospel (D&C 138:29-31):
+Of special note, v88 states that the telestial beings receive the Holy Ghost through 
+messengers sent to a telestial world. Thinking again of the spirits in "prison", Jesus 
+did not minister to the damned during his 3 days in the Spirit World, but sent "angels" 
+(think Peter, James and John) to the damned to preach the gospel.
 
 ```
 29 [...] I perceived that the Lord went not in person among the wicked and the disobedient 
 who had rejected the truth [...];
 
-30 But [...] among the righteous, he [...] appointed messengers, [..]] and commissioned 
+30 But [...] among the righteous, he [...] appointed messengers, [..] and commissioned 
 them to go forth [...] to them that were in darkness [...]
 
 31 And the chosen messengers went forth [...] to the captives who were bound, even unto
 all who would repent of their sins and receive the gospel.
 ```
+[D&C 138:29-31](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng)
 
 D&C 130 states that what we attain to in this life gives us the more advantage - or in
 King Follet Sermon terms - a higher rung in the ladder, a rung that will be filled
 later by people they help up.
 
-From D&C 130:
+From D&C 76:
 
 ```
 15 For while we were doing the work of translation, which the Lord had appointed unto us,
