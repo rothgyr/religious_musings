@@ -341,14 +341,7 @@ did not minister to the damned during his 3 days in the Spirit World, but sent "
 (think Peter, James and John) to the damned to preach the gospel.
 
 ```
-29 [...] I perceived that the Lord went not in person among the wicked and the disobedient 
-who had rejected the truth [...];
-
-30 But [...] among the righteous, he [...] appointed messengers, [..] and commissioned 
-them to go forth [...] to them that were in darkness [...]
-
-31 And the chosen messengers went forth [...] to the captives who were bound, even unto
-all who would repent of their sins and receive the gospel.
+1
 ```
 [D&C 138:29-31](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng)
 
