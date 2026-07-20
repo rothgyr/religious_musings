@@ -31,9 +31,18 @@ Who tends to question their belonging? Those who
   - have never *experienced* the power or love of God in their own lives, or perhaps have forgotten
   - are bad at chastity/word of wisdom/have a personalized look that doesn't conform to generic church looks
 
-
+## Preach the Gospel of Jesus Christ
+1. Read scriptures with kids
+2. Pray with my kids
+3. Teach them doctrine
+4. Perform duties as directed at church.
 
 ## Sharpening The Saw - Improving my Abilities as a Conduit
+1. Pray. Connect with god, and invite revelation
+2. Pray.
+3. I can practice piano so that I can create inviting experiences at church, home, and in the temple (preparation meetings)
+4. Study Scriptures and doctrines.
+5. Learn to tell stories better.
 
 ## Random Thoughts
 A way to care for the sick and possibly poor, would be to offer to take time to handle billing for people who are chronically sick/old, etc. Consider becoming a representative for an older person to help handle their affairs.
