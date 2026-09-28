@@ -39,7 +39,11 @@ It's like any other memory that pops up in your mind. Instantaneous. Powerful.
 I see myself kneeling at a throne, swearing an Oath. An Oath to serve my King. A man
 who--though all powerful--will only spend a short 3 years showing that power. The span of
 humanity is thousands of years long, and yet he will only be present for a short stint. I
-am swearing an Oath like others have, that I will do what he would do if he were present.
+am swearing an Oath, like others have, because he won't be there in the 21st century.
+
+But I will be there.
+
+I will do what he would do if he were present.
 
 The vision is brief, but life changing. I speak with my bishop when I get home. We send my
 application papers the same week. Within six months, I am on a mission in Brazil,
@@ -69,7 +73,8 @@ fealty.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Hommage_au_Moyen_Age_-_miniature.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-In return for homage or the pledge of fealty, the king grants to vassal fiefdom, or parts
+In return for homage or the pledge of fealty, the king grants to his vassal fiefdom, or 
+parts
 of his kingdom to care for and essentially own. It was a cool book and taught about how
 King John was put in his place by his peers (the other dukes) and vassals and Parliament
 was formed as a result.
@@ -104,8 +109,7 @@ instructions in Genesis and the Pearl of Great Price, and even some books in the
 Apocrypha.
 
 He told us we would be going to the temple and receiving a new name, annointings,
-investiture, etc., in the same way that kings are [annointed behind a veil](https://en.
-wikipedia.org/wiki/Coronation_of_the_British_monarch#Anointing), given
+investiture, etc., in the same way that kings are [annointed behind a veil](https://en.wikipedia.org/wiki/Coronation_of_the_British_monarch#Anointing), given
 [regnal names](https://en.wikipedia.org/wiki/Regnal_name), and so much more.
 
 But I don't think it was until April 2008 that I really started to see my priesthood
