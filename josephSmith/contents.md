@@ -1,0 +1,625 @@
+# History of the Church — Topic Key
+
+A topic key for the *History of the Church of Jesus Christ of Latter-day Saints* (B. H. Roberts, ed.). Topics come from the chapter titles. Each link opens the chapter file that covers that topic.
+
+- [Volume 1 (1805–1834)](#volume-1-18051834) — Joseph Smith's early life, the Book of Mormon, the founding of the Church, Kirtland and Zion
+- [Volume 2 (1834–1837)](#volume-2-18341837) — Zion's Camp, the Twelve and Seventy, the Kirtland Temple
+- [Volume 3 (1838–1839)](#volume-3-18381839) — Far West, the Missouri persecutions, Liberty Jail, the move to Commerce
+- [Volume 4 (1839–1842)](#volume-4-18391842) — Washington petitions, the British Mission, Nauvoo, the Relief Society
+- [Volume 5 (1842–1843)](#volume-5-18421843) — Endowments, John C. Bennett, the arrests of the Prophet, eternal marriage
+- [Volume 6 (1843–1844)](#volume-6-18431844) — Presidential campaign, the King Follett Sermon, the Expositor, the Martyrdom
+- [Volume 7 (1844–1848)](#volume-7-18441848) — Succession, the Nauvoo Temple, the exodus west
+
+---
+
+## Volume 1 (1805–1834)
+
+- [Joseph Smith's birth and family lineage](volume-01/chapter-01.md) — Ch. 1
+- [The First Vision — "This is My Beloved Son"](volume-01/chapter-01.md) — Ch. 1
+- [Moroni's visit](volume-01/chapter-02.md) — Ch. 2
+- [The existence of the Book of Mormon made known](volume-01/chapter-02.md) — Ch. 2
+- [Joseph receives the Nephite plates](volume-01/chapter-03.md) — Ch. 3
+- [The angel's warning](volume-01/chapter-03.md) — Ch. 3
+- [The work of translation begins](volume-01/chapter-03.md) — Ch. 3
+- [Oliver Cowdery becomes Joseph's scribe](volume-01/chapter-04.md) — Ch. 4
+- [Translation of the plates continues](volume-01/chapter-04.md) — Ch. 4
+- [Restoration of the Aaronic Priesthood](volume-01/chapter-05.md) — Ch. 5
+- [The first baptisms](volume-01/chapter-05.md) — Ch. 5
+- [Testimony of the witnesses to the Book of Mormon](volume-01/chapter-06.md) — Ch. 6
+- [The day appointed for organizing the Church](volume-01/chapter-07.md) — Ch. 7
+- [Revelation on Church government](volume-01/chapter-07.md) — Ch. 7
+- [The Book of Mormon published](volume-01/chapter-08.md) — Ch. 8
+- [The Church organized](volume-01/chapter-08.md) — Ch. 8
+- [The public ministry of the Church begins](volume-01/chapter-09.md) — Ch. 9
+- [Mob harassment at Colesville](volume-01/chapter-10.md) — Ch. 10
+- [The Vision of Moses revealed](volume-01/chapter-10.md) — Ch. 10
+- [Further light on the sacrament](volume-01/chapter-11.md) — Ch. 11
+- [Joseph moves to Fayette](volume-01/chapter-11.md) — Ch. 11
+- [Lost books of ancient scripture](volume-01/chapter-12.md) — Ch. 12
+- [Saints in New York commanded to move to Ohio](volume-01/chapter-12.md) — Ch. 12
+- [Prospects of the Church at the start of 1831](volume-01/chapter-13.md) — Ch. 13
+- [Joseph moves from New York to Ohio](volume-01/chapter-13.md) — Ch. 13
+- [Doctrinal development (1831)](volume-01/chapter-13.md) — Ch. 13
+- [Attempts to overwhelm the Church with falsehoods](volume-01/chapter-14.md) — Ch. 14
+- [Revelations leading to doctrinal development](volume-01/chapter-14.md) — Ch. 14
+- [The important conference of June 3–6, 1831](volume-01/chapter-15.md) — Ch. 15
+- [Elders arrive in western Missouri](volume-01/chapter-15.md) — Ch. 15
+- [The founding of Zion](volume-01/chapter-16.md) — Ch. 16
+- [The apostasy of Ezra Booth](volume-01/chapter-17.md) — Ch. 17
+- [Preparations to publish the Book of Commandments](volume-01/chapter-17.md) — Ch. 17
+- [The Amherst conference](volume-01/chapter-18.md) — Ch. 18
+- [The vision of the degrees of glory](volume-01/chapter-18.md) — Ch. 18
+- [Mob violence at Hiram](volume-01/chapter-19.md) — Ch. 19
+- [Joseph's second journey to Zion and return to Kirtland](volume-01/chapter-19.md) — Ch. 19
+- ["The Evening and Morning Star" newspaper](volume-01/chapter-20.md) — Ch. 20
+- [Larger views of the doctrine of priesthood revealed](volume-01/chapter-21.md) — Ch. 21
+- [Joseph meets Brigham Young and Heber C. Kimball](volume-01/chapter-21.md) — Ch. 21
+- [Prophecy on the Civil War](volume-01/chapter-22.md) — Ch. 22
+- [The "Olive Leaf" revelation](volume-01/chapter-22.md) — Ch. 22
+- [Letter to Mr. Seaton](volume-01/chapter-22.md) — Ch. 22
+- [Warning to Zion](volume-01/chapter-22.md) — Ch. 22
+- [Spiritual blessings in the Church](volume-01/chapter-23.md) — Ch. 23
+- [The Word of Wisdom](volume-01/chapter-23.md) — Ch. 23
+- [Kirtland to be a stake of Zion](volume-01/chapter-24.md) — Ch. 24
+- [Regulating Church affairs in Missouri](volume-01/chapter-24.md) — Ch. 24
+- [Preparations to build the Kirtland Temple](volume-01/chapter-25.md) — Ch. 25
+- [Trial and excommunication of "Doctor" Philastus Hurlburt](volume-01/chapter-25.md) — Ch. 25
+- [Plat of the City of Zion and its temples](volume-01/chapter-26.md) — Ch. 26
+- [Correspondence on affairs in Zion](volume-01/chapter-26.md) — Ch. 26
+- [The Jackson County mob prepares for violence](volume-01/chapter-27.md) — Ch. 27
+- [Excerpts from the "Star"](volume-01/chapter-27.md) — Ch. 27
+- [Mob violence in Zion (Jackson County)](volume-01/chapter-28.md) — Ch. 28
+- [Minor events in Zion and Kirtland](volume-01/chapter-29.md) — Ch. 29
+- [An appeal to the governor of Missouri](volume-01/chapter-29.md) — Ch. 29
+- [Joseph's mission to Canada](volume-01/chapter-30.md) — Ch. 30
+- [The Saints expelled from Jackson County](volume-01/chapter-31.md) — Ch. 31
+- [Remembering the Canadian Saints](volume-01/chapter-32.md) — Ch. 32
+- [Correspondence and petitions on Missouri affairs](volume-01/chapter-32.md) — Ch. 32
+- [Joseph's sympathy for the exiled Saints](volume-01/chapter-33.md) — Ch. 33
+- [Why the Saints were expelled from Zion](volume-01/chapter-33.md) — Ch. 33
+- [A printing press established at Kirtland](volume-01/chapter-34.md) — Ch. 34
+- [Blessing on Joseph's family](volume-01/chapter-34.md) — Ch. 34
+- [Who was responsible for lawless acts in Missouri](volume-01/chapter-34.md) — Ch. 34
+- [Correspondence between Church leaders and Missouri officials on Jackson County](volume-01/chapter-35.md) — Ch. 35
+
+## Volume 2 (1834–1837)
+
+- [Affairs in Zion and Kirtland, 1834](volume-02/chapter-01.md) — Ch. 1
+- [Organization of the High Council](volume-02/chapter-02.md) — Ch. 2
+- [First cases before the High Council](volume-02/chapter-02.md) — Ch. 2
+- [Cause and purpose of the Jackson County persecution](volume-02/chapter-03.md) — Ch. 3
+- [Joseph's mission through western New York](volume-02/chapter-03.md) — Ch. 3
+- [Trial and conviction of Hurlburt](volume-02/chapter-04.md) — Ch. 4
+- [Efforts to redeem Zion](volume-02/chapter-04.md) — Ch. 4
+- [The United Order of Zion and Kirtland dissolved](volume-02/chapter-04.md) — Ch. 4
+- [Zion's Camp marches from Kirtland to Missouri](volume-02/chapter-05.md) — Ch. 5
+- [Zion's Camp in Missouri](volume-02/chapter-06.md) — Ch. 6
+- [Letters of Governor Dunklin and others](volume-02/chapter-06.md) — Ch. 6
+- [Zion's Camp: efforts at arbitration](volume-02/chapter-07.md) — Ch. 7
+- [Zion's Camp: the word of the Lord](volume-02/chapter-07.md) — Ch. 7
+- [Zion's Camp disbanded](volume-02/chapter-08.md) — Ch. 8
+- [An appeal (after Zion's Camp)](volume-02/chapter-08.md) — Ch. 8
+- [Joseph returns to Kirtland](volume-02/chapter-09.md) — Ch. 9
+- [Events in Missouri, 1834](volume-02/chapter-09.md) — Ch. 9
+- [Charges against Joseph after Zion's Camp](volume-02/chapter-10.md) — Ch. 10
+- [Trial of Elder Sylvester Smith](volume-02/chapter-10.md) — Ch. 10
+- [Council meetings in Ohio and Missouri](volume-02/chapter-11.md) — Ch. 11
+- [Changes in Church periodicals](volume-02/chapter-12.md) — Ch. 12
+- [The covenant of tithing](volume-02/chapter-12.md) — Ch. 12
+- [The Lectures on Faith](volume-02/chapter-13.md) — Ch. 13
+- [The Twelve Apostles chosen and ordained](volume-02/chapter-13.md) — Ch. 13
+- [Organization of the Seventies](volume-02/chapter-13.md#L207) — Ch. 13 (second part)
+- [Blessing of the faithful elders and Saints](volume-02/chapter-13.md#L207) — Ch. 13 (second part)
+- [The great revelation on priesthood](volume-02/chapter-14.md) — Ch. 14
+- [The first mission of the Twelve](volume-02/chapter-15.md) — Ch. 15
+- [Progress of affairs at Kirtland](volume-02/chapter-16.md) — Ch. 16
+- [Discovery of the Book of Abraham](volume-02/chapter-16.md) — Ch. 16
+- [Council meetings in Vermont, Ohio, and New York](volume-02/chapter-17.md) — Ch. 17
+- [The Doctrine and Covenants presented to the Church](volume-02/chapter-18.md) — Ch. 18
+- [Joseph returns from Michigan to Kirtland](volume-02/chapter-19.md) — Ch. 19
+- [Joseph's address to the elders](volume-02/chapter-19.md) — Ch. 19
+- [Affairs at Kirtland](volume-02/chapter-20.md) — Ch. 20
+- [The pledge to redeem Zion](volume-02/chapter-20.md) — Ch. 20
+- [Joseph's experiences in and around Kirtland](volume-02/chapter-21.md) — Ch. 21
+- [Joseph's ministry in Kirtland](volume-02/chapter-22.md) — Ch. 22
+- [Joseph's ministry in Kirtland (continued)](volume-02/chapter-23.md) — Ch. 23
+- [Joseph's other work in Kirtland](volume-02/chapter-24.md) — Ch. 24
+- [Troubles of Orson Hyde and William Smith](volume-02/chapter-25.md) — Ch. 25
+- [The Book of Abraham](volume-02/chapter-25.md) — Ch. 25
+- [The American Indians](volume-02/chapter-26.md) — Ch. 26
+- [Special council meetings in Kirtland, early 1836](volume-02/chapter-26.md) — Ch. 26
+- [The First Presidency and the Twelve reconciled](volume-02/chapter-27.md) — Ch. 27
+- [Pentecostal times in Kirtland](volume-02/chapter-27.md) — Ch. 27
+- [Joseph's ministry and studies in Kirtland](volume-02/chapter-28.md) — Ch. 28
+- [Dedication of the Kirtland Temple](volume-02/chapter-29.md) — Ch. 29
+- [Spiritual manifestations at the Kirtland Temple](volume-02/chapter-29.md) — Ch. 29
+- [The ordinance of washing of feet](volume-02/chapter-30.md) — Ch. 30
+- [Visions in the Kirtland Temple](volume-02/chapter-30.md) — Ch. 30
+- [Joseph on abolition](volume-02/chapter-30.md) — Ch. 30
+- [A prediction by Joseph's grandparents](volume-02/chapter-31.md) — Ch. 31
+- [Pressure to remove the Saints from Clay County, Missouri](volume-02/chapter-31.md) — Ch. 31
+- [Joseph's mission to Massachusetts](volume-02/chapter-32.md) — Ch. 32
+- [Organization of the Kirtland Safety Society](volume-02/chapter-32.md) — Ch. 32
+- [Priesthood quorum meetings in the Kirtland Temple](volume-02/chapter-33.md) — Ch. 33
+- [Joseph's instructions on priesthood](volume-02/chapter-33.md) — Ch. 33
+- [Affairs in Zion, 1837](volume-02/chapter-34.md) — Ch. 34
+- [Apostasy at Kirtland](volume-02/chapter-34.md) — Ch. 34
+- [The British Mission appointed and departs for England](volume-02/chapter-34.md) — Ch. 34
+- [Financial conditions in various nations](volume-02/chapter-35.md) — Ch. 35
+- [Progress of the British Mission](volume-02/chapter-35.md) — Ch. 35
+- [Conferences at Far West and Kirtland](volume-02/chapter-35.md) — Ch. 35
+- [The gathering Saints](volume-02/chapter-36.md) — Ch. 36
+- [More stakes planned](volume-02/chapter-36.md) — Ch. 36
+- [Councils in Zion and Kirtland](volume-02/chapter-36.md) — Ch. 36
+
+## Volume 3 (1838–1839)
+
+- [Joseph leaves Kirtland and arrives in Missouri](volume-03/chapter-01.md) — Ch. 1
+- [Excommunication of Oliver Cowdery and David Whitmer](volume-03/chapter-02.md) — Ch. 2
+- [The work in England, 1838](volume-03/chapter-02.md) — Ch. 2
+- [Settling affairs at Far West](volume-03/chapter-03.md) — Ch. 3
+- [Lands chosen for settlement in Caldwell and Daviess counties](volume-03/chapter-04.md) — Ch. 4
+- [Adam-ondi-Ahman](volume-03/chapter-04.md) — Ch. 4
+- [Independence Day at Far West](volume-03/chapter-05.md) — Ch. 5
+- [Events and revelations at Far West](volume-03/chapter-05.md) — Ch. 5
+- [Epistle of David W. Patten](volume-03/chapter-05.md) — Ch. 5
+- [Trouble begins in Caldwell and Daviess counties](volume-03/chapter-06.md) — Ch. 6
+- [Growing conflict between the Saints and the Daviess and Caldwell mobs](volume-03/chapter-07.md) — Ch. 7
+- [Mob movements in Caldwell, Daviess, and Carroll counties](volume-03/chapter-08.md) — Ch. 8
+- [Kirtland Camp arrives at Far West](volume-03/chapter-08.md) — Ch. 8
+- [Organization and journey of Kirtland Camp](volume-03/chapter-09.md) — Ch. 9
+- [Journey of Kirtland Camp (continued)](volume-03/chapter-10.md) — Ch. 10
+- [The Saints expelled from De Witt, Carroll County](volume-03/chapter-11.md) — Ch. 11
+- [Mob movements on De Witt](volume-03/chapter-12.md) — Ch. 12
+- [Battle of Crooked River](volume-03/chapter-12.md) — Ch. 12
+- [Governor Boggs's extermination order](volume-03/chapter-12.md) — Ch. 12
+- [Mob movements around Far West](volume-03/chapter-13.md) — Ch. 13
+- [Colonel Hinkle's betrayal](volume-03/chapter-13.md) — Ch. 13
+- [Sorrowful scenes at Far West](volume-03/chapter-13.md) — Ch. 13
+- [Militia generals compete for custody of the prisoners](volume-03/chapter-14.md) — Ch. 14
+- [The "trial" at Richmond](volume-03/chapter-14.md) — Ch. 14
+- [The Saints' case presented to the Missouri legislature](volume-03/chapter-15.md) — Ch. 15
+- [Joseph's message to the Saints from Liberty Jail](volume-03/chapter-15.md) — Ch. 15
+- [The "Mormon" case before the Missouri legislature](volume-03/chapter-16.md) — Ch. 16
+- [Preparations to leave Missouri](volume-03/chapter-17.md) — Ch. 17
+- [Action of the Missouri legislature](volume-03/chapter-17.md) — Ch. 17
+- [The exiled Saints gather at Quincy](volume-03/chapter-18.md) — Ch. 18
+- [Proposal to settle at Commerce](volume-03/chapter-18.md) — Ch. 18
+- [Letters to Joseph in prison](volume-03/chapter-19.md) — Ch. 19
+- [Affairs in England, 1839](volume-03/chapter-19.md) — Ch. 19
+- [Petitions on behalf of the Saints](volume-03/chapter-19.md) — Ch. 19
+- [Efforts on behalf of the exiled Saints](volume-03/chapter-20.md) — Ch. 20
+- [Joseph's letters from Liberty Jail](volume-03/chapter-20.md) — Ch. 20
+- [Stirring scenes around Far West](volume-03/chapter-21.md) — Ch. 21
+- [Epistle of Joseph and his fellow prisoners](volume-03/chapter-21.md) — Ch. 21
+- [Joseph's account of his experiences in Missouri](volume-03/chapter-22.md) — Ch. 22
+- [A prophetic revelation fulfilled](volume-03/chapter-22.md) — Ch. 22
+- [The Saints' complete exodus from Missouri](volume-03/chapter-22.md) — Ch. 22
+- [Settlement at Commerce, Illinois](volume-03/chapter-23.md) — Ch. 23
+- [Adventures of the prisoners still in Missouri](volume-03/chapter-24.md) — Ch. 24
+- [Joseph's personal narrative of his time in Missouri](volume-03/chapter-24.md) — Ch. 24
+- [Commerce and Joseph's history](volume-03/chapter-25.md) — Ch. 25
+- [Doctrinal development (1839)](volume-03/chapter-25.md) — Ch. 25
+- [Joseph's ministry around Commerce](volume-03/chapter-26.md) — Ch. 26
+- [Joseph's address to the Twelve](volume-03/chapter-26.md) — Ch. 26
+- [Baptism of Isaac Galland](volume-03/chapter-27.md) — Ch. 27
+- [Epistle of the Twelve to the Church](volume-03/chapter-27.md) — Ch. 27
+- [Escape of Parley P. Pratt and fellow prisoners from Missouri](volume-03/chapter-28.md) — Ch. 28
+
+## Volume 4 (1839–1842)
+
+- [The Twelve depart for England](volume-04/chapter-01.md) — Ch. 1
+- [God's power manifested in healing the sick at Commerce](volume-04/chapter-01.md) — Ch. 1
+- [Joseph's journey to Washington](volume-04/chapter-02.md) — Ch. 2
+- [The Saints' petition to Congress for redress of Missouri wrongs](volume-04/chapter-02.md) — Ch. 2
+- [Joseph's efforts in Washington to obtain redress](volume-04/chapter-03.md) — Ch. 3
+- [Affidavits on Missouri affairs](volume-04/chapter-03.md) — Ch. 3
+- [Joseph leaves Washington](volume-04/chapter-04.md) — Ch. 4
+- [Elias Higbee before the Senate Judiciary Committee](volume-04/chapter-04.md) — Ch. 4
+- [Report of the Senate committee](volume-04/chapter-04.md) — Ch. 4
+- [The Saints' case before the U.S. Senate](volume-04/chapter-05.md) — Ch. 5
+- [General conference at Nauvoo, 1840](volume-04/chapter-05.md) — Ch. 5
+- [The Church's response to the Senate committee's report](volume-04/chapter-05.md) — Ch. 5
+- [The mission to Palestine](volume-04/chapter-05.md) — Ch. 5
+- [Development of the work in England](volume-04/chapter-06.md) — Ch. 6
+- [The Palestine mission (continued)](volume-04/chapter-06.md) — Ch. 6
+- [Commerce renamed Nauvoo](volume-04/chapter-06.md) — Ch. 6
+- [The "Millennial Star," the Church's first foreign periodical](volume-04/chapter-07.md) — Ch. 7
+- [Joseph seeks release from secular responsibilities](volume-04/chapter-07.md) — Ch. 7
+- [Important conference in England](volume-04/chapter-08.md) — Ch. 8
+- [Brown and Boyce kidnapped by Missourians](volume-04/chapter-08.md) — Ch. 8
+- [Nauvoo citizens respond to the kidnapping](volume-04/chapter-08.md) — Ch. 8
+- [Return of a prodigal](volume-04/chapter-09.md) — Ch. 9
+- [Conditions in Kirtland, 1840](volume-04/chapter-09.md) — Ch. 9
+- [Progress of the work in Great Britain](volume-04/chapter-09.md) — Ch. 9
+- [The arrival of John C. Bennett](volume-04/chapter-09.md) — Ch. 9
+- [The Australian mission](volume-04/chapter-09.md) — Ch. 9
+- [A Missouri kidnapping](volume-04/chapter-10.md) — Ch. 10
+- [Continued growth of the work in Great Britain](volume-04/chapter-10.md) — Ch. 10
+- [Death of Joseph Smith Sr., first Patriarch of the Church](volume-04/chapter-10.md) — Ch. 10
+- [Threatening actions by Missouri](volume-04/chapter-11.md) — Ch. 11
+- [General conferences in Nauvoo and England](volume-04/chapter-11.md) — Ch. 11
+- [The doctrine of priesthood](volume-04/chapter-11.md) — Ch. 11
+- [Progress of the work in Great Britain (1840)](volume-04/chapter-12.md) — Ch. 12
+- [The Kirtland Saints reproved for their conduct during the Missouri persecutions](volume-04/chapter-12.md) — Ch. 12
+- [Joseph's address to the Twelve and Saints in Great Britain](volume-04/chapter-12.md) — Ch. 12
+- [The gospel introduced in the Isle of Man](volume-04/chapter-13.md) — Ch. 13
+- [The Nauvoo Charter](volume-04/chapter-13.md) — Ch. 13
+- [Publications for and against the Church, 1840](volume-04/chapter-14.md) — Ch. 14
+- [Whereabouts of the Twelve Apostles, 1841](volume-04/chapter-14.md) — Ch. 14
+- ["Election and Reprobation"](volume-04/chapter-14.md) — Ch. 14
+- [Proclamation to the Saints](volume-04/chapter-14.md) — Ch. 14
+- [Reorganizing Church affairs at Nauvoo](volume-04/chapter-15.md) — Ch. 15
+- [Revelation of January 1841](volume-04/chapter-15.md) — Ch. 15
+- [Municipal organization of Nauvoo](volume-04/chapter-15.md) — Ch. 15
+- [Installation of Nauvoo's civic and military officers](volume-04/chapter-15.md) — Ch. 15
+- [The first foreign mission of the Church, 1837–1841](volume-04/chapter-16.md) — Ch. 16
+- [Twelfth anniversary of the Church's organization](volume-04/chapter-17.md) — Ch. 17
+- [Order for laying temple cornerstones](volume-04/chapter-17.md) — Ch. 17
+- [Council meetings of the Twelve in England](volume-04/chapter-17.md) — Ch. 17
+- [General conference at Nauvoo, 1841](volume-04/chapter-18.md) — Ch. 18
+- [Epistle of the Twelve to the Saints in England](volume-04/chapter-18.md) — Ch. 18
+- [Differences between Baptists and Latter-day Saints](volume-04/chapter-18.md) — Ch. 18
+- [Organization of the Nauvoo Legion](volume-04/chapter-19.md) — Ch. 19
+- [Notable visitors to Nauvoo](volume-04/chapter-19.md) — Ch. 19
+- [Joseph's sermon on individual responsibility for sin and the doctrine of election](volume-04/chapter-19.md) — Ch. 19
+- [Joseph arrested at Missouri's demand](volume-04/chapter-20.md) — Ch. 20
+- [Trial at Monmouth and acquittal](volume-04/chapter-20.md) — Ch. 20
+- [The mission to Jerusalem](volume-04/chapter-21.md) — Ch. 21
+- [Orson Hyde's journey](volume-04/chapter-21.md) — Ch. 21
+- [Events at Nauvoo and around the world, 1841](volume-04/chapter-22.md) — Ch. 22
+- [The mission of the Twelve](volume-04/chapter-22.md) — Ch. 22
+- [Death, life, and labors of Don Carlos Smith](volume-04/chapter-23.md) — Ch. 23
+- [Special conference at Nauvoo, 1841](volume-04/chapter-23.md) — Ch. 23
+- [Hotchkiss land purchase trouble](volume-04/chapter-24.md) — Ch. 24
+- [Deaths of Oliver Granger and Robert B. Thompson](volume-04/chapter-24.md) — Ch. 24
+- [Important action relating to the Twelve](volume-04/chapter-24.md) — Ch. 24
+- [The Fox Islands mission](volume-04/chapter-24.md) — Ch. 24
+- [General conference at Nauvoo, October 1841](volume-04/chapter-25.md) — Ch. 25
+- [Doctrinal sermon by Joseph](volume-04/chapter-25.md) — Ch. 25
+- [Baptism for the dead](volume-04/chapter-25.md) — Ch. 25
+- [Angels and ministering spirits](volume-04/chapter-25.md) — Ch. 25
+- [Epistle of the Twelve on the status of the Church](volume-04/chapter-25.md) — Ch. 25
+- [Affairs in Kirtland and Nauvoo, 1841](volume-04/chapter-26.md) — Ch. 26
+- [Epistle of the Twelve to the Saints in the British Isles](volume-04/chapter-26.md) — Ch. 26
+- [Orson Hyde's dedicatory prayer on the Mount of Olives](volume-04/chapter-26.md) — Ch. 26
+- [Official denunciation of thieves at Nauvoo](volume-04/chapter-27.md) — Ch. 27
+- [The moral law of the Church](volume-04/chapter-27.md) — Ch. 27
+- [Ramus discontinued as a stake](volume-04/chapter-27.md) — Ch. 27
+- [Epistle on baptism for the dead](volume-04/chapter-27.md) — Ch. 27
+- [Kirtland vs. Nauvoo](volume-04/chapter-28.md) — Ch. 28
+- [Political stance of the people of Nauvoo](volume-04/chapter-28.md) — Ch. 28
+- [Mormon and anti-Mormon publications, 1841](volume-04/chapter-28.md) — Ch. 28
+- [Whereabouts of the Twelve Apostles, 1842](volume-04/chapter-29.md) — Ch. 29
+- [Orson Hyde's letters from Trieste](volume-04/chapter-29.md) — Ch. 29
+- [High Council report on affairs in Nauvoo](volume-04/chapter-29.md) — Ch. 29
+- [Events in the British Mission, 1842](volume-04/chapter-29.md) — Ch. 29
+- [Emigration of the Saints from England to Nauvoo](volume-04/chapter-30.md) — Ch. 30
+- [The Book of Abraham published](volume-04/chapter-30.md) — Ch. 30
+- [The Wentworth Letter (Articles of Faith)](volume-04/chapter-31.md) — Ch. 31
+- [The Bennett–Dyer correspondence](volume-04/chapter-32.md) — Ch. 32
+- [Joseph's discourse on the resurrection and the salvation of children](volume-04/chapter-32.md) — Ch. 32
+- [Epistle of the Twelve on emigration from England](volume-04/chapter-32.md) — Ch. 32
+- [A Mason's view of Nauvoo and Joseph](volume-04/chapter-33.md) — Ch. 33
+- [Organization of the Female Relief Society](volume-04/chapter-33.md) — Ch. 33
+- ["Try the Spirits" — Joseph's editorial](volume-04/chapter-33.md) — Ch. 33
+- [Special conference at Nauvoo, 1842](volume-04/chapter-34.md) — Ch. 34
+- [Joseph reproves the wicked](volume-04/chapter-34.md) — Ch. 34
+- [Epistle of the Twelve to the Saints in Kirtland](volume-04/chapter-34.md) — Ch. 34
+- [The general bankrupt law](volume-04/chapter-35.md) — Ch. 35
+- [The doctrine of baptism for the dead](volume-04/chapter-35.md) — Ch. 35
+- [Joseph's address to the Relief Society](volume-04/chapter-35.md) — Ch. 35
+- [The keys of the priesthood and the Nauvoo Temple](volume-04/chapter-35.md) — Ch. 35
+
+## Volume 5 (1842–1843)
+
+- [Endowment ceremonies introduced](volume-05/chapter-01.md) — Ch. 1
+- [John C. Bennett's betrayal exposed](volume-05/chapter-01.md) — Ch. 1
+- [Bennett resigns as mayor of Nauvoo](volume-05/chapter-01.md) — Ch. 1
+- [Epistle of the High Council to the Saints](volume-05/chapter-01.md) — Ch. 1
+- [Actions concerning John C. Bennett and others](volume-05/chapter-02.md) — Ch. 2
+- [Joseph's instructions to the Relief Society](volume-05/chapter-02.md) — Ch. 2
+- [Treatise on the Holy Ghost](volume-05/chapter-02.md) — Ch. 2
+- [William Law's defense of the Saints](volume-05/chapter-02.md) — Ch. 2
+- [Joseph's address to the Church](volume-05/chapter-02.md) — Ch. 2
+- [Correspondence between Joseph and Governor Carlin](volume-05/chapter-03.md) — Ch. 3
+- [John C. Bennett's character](volume-05/chapter-03.md) — Ch. 3
+- [Phrenological charts of Joseph and others](volume-05/chapter-03.md) — Ch. 3
+- [The government of God](volume-05/chapter-03.md) — Ch. 3
+- [Joseph accused of being an accessory to the assault on ex-Governor Boggs](volume-05/chapter-04.md) — Ch. 4
+- [Correspondence with Governor Carlin](volume-05/chapter-04.md) — Ch. 4
+- [Prophecy that the Saints would be driven to the Rocky Mountains](volume-05/chapter-04.md) — Ch. 4
+- [Joseph in hiding](volume-05/chapter-05.md) — Ch. 5
+- [Correspondence with Wilson Law](volume-05/chapter-05.md) — Ch. 5
+- [Joseph and Emma Smith's companionship](volume-05/chapter-05.md) — Ch. 5
+- [Joseph's appreciation for his friends](volume-05/chapter-05.md) — Ch. 5
+- [More correspondence between Joseph and Wilson Law](volume-05/chapter-06.md) — Ch. 6
+- [Joseph on Governor Carlin's attitude toward him and the Saints](volume-05/chapter-06.md) — Ch. 6
+- [Sidney Rigdon's renewed zeal](volume-05/chapter-06.md) — Ch. 6
+- [Joseph's blessing on his friends](volume-05/chapter-06.md) — Ch. 6
+- [Countering John C. Bennett's influence](volume-05/chapter-07.md) — Ch. 7
+- [Joseph reappears among the people](volume-05/chapter-07.md) — Ch. 7
+- [Joseph's discourse to the Relief Society](volume-05/chapter-07.md) — Ch. 7
+- [Instructions on baptism for the dead](volume-05/chapter-08.md) — Ch. 8
+- [Correspondence between Emma Smith and Governor Carlin](volume-05/chapter-08.md) — Ch. 8
+- [Joseph's first letter to James Arlington Bennett](volume-05/chapter-08.md) — Ch. 8
+- [Joseph's correspondence with James Arlington Bennett](volume-05/chapter-09.md) — Ch. 9
+- [Emma's illness](volume-05/chapter-09.md) — Ch. 9
+- [Plots to trap Joseph](volume-05/chapter-09.md) — Ch. 9
+- [Justice Butterfield's legal opinion on the Missouri proceedings](volume-05/chapter-09.md) — Ch. 9
+- [Temple affairs, 1842](volume-05/chapter-10.md) — Ch. 10
+- [Joseph's address to newcomers](volume-05/chapter-10.md) — Ch. 10
+- [City council action on writs of habeas corpus](volume-05/chapter-10.md) — Ch. 10
+- [Joseph retires as editor of the "Times and Seasons"](volume-05/chapter-11.md) — Ch. 11
+- [Progress on the Nauvoo Temple](volume-05/chapter-11.md) — Ch. 11
+- [Nauvoo divided into ten wards](volume-05/chapter-11.md) — Ch. 11
+- [William Smith in the Illinois legislature](volume-05/chapter-11.md) — Ch. 11
+- [Missouri's demand for Joseph presented to Governor Ford](volume-05/chapter-11.md) — Ch. 11
+- [Joseph at Springfield, Illinois](volume-05/chapter-12.md) — Ch. 12
+- [Habeas corpus hearing before Judge Pope](volume-05/chapter-12.md) — Ch. 12
+- [Joseph released by the court and Governor Ford](volume-05/chapter-12.md) — Ch. 12
+- [Celebrating Joseph's release](volume-05/chapter-13.md) — Ch. 13
+- [Orson Pratt reinstated](volume-05/chapter-13.md) — Ch. 13
+- [Discourse: "The Kingdom of God"](volume-05/chapter-13.md) — Ch. 13
+- [Discourse: "The Mission and Greatness of John the Baptist"](volume-05/chapter-13.md) — Ch. 13
+- [Interpretation of scriptures](volume-05/chapter-13.md) — Ch. 13
+- [Enlarging Nauvoo's municipal government](volume-05/chapter-14.md) — Ch. 14
+- [Keys for recognizing true angelic visitors](volume-05/chapter-14.md) — Ch. 14
+- [Joseph's parable, "The Lions of the Press"](volume-05/chapter-14.md) — Ch. 14
+- [Joseph visits Shokoquon](volume-05/chapter-15.md) — Ch. 15
+- [Wood-cutting bee](volume-05/chapter-15.md) — Ch. 15
+- [Joseph's speech on conditions at Nauvoo](volume-05/chapter-15.md) — Ch. 15
+- [The coming of the Son of Man](volume-05/chapter-15.md) — Ch. 15
+- [Attempt to repeal parts of the Nauvoo Charter](volume-05/chapter-16.md) — Ch. 16
+- [Gold and silver made the only legal tender in Nauvoo](volume-05/chapter-16.md) — Ch. 16
+- [Signs in the heavens](volume-05/chapter-16.md) — Ch. 16
+- ["The Wasp" becomes the "Nauvoo Neighbor"](volume-05/chapter-16.md) — Ch. 16
+- [Joseph's suspicions of Sidney Rigdon](volume-05/chapter-16.md) — Ch. 16
+- [Eulogy of Lorenzo D. Barnes](volume-05/chapter-17.md) — Ch. 17
+- [Beginnings of auxiliary organizations in the Church](volume-05/chapter-17.md) — Ch. 17
+- [Doctrines taught at Ramus](volume-05/chapter-17.md) — Ch. 17
+- [General conference of April 6, 1843](volume-05/chapter-17.md) — Ch. 17
+- [A great missionary movement](volume-05/chapter-18.md) — Ch. 18
+- [Instructions to elders going on missions](volume-05/chapter-18.md) — Ch. 18
+- [Imprisonment of Orrin Porter Rockwell](volume-05/chapter-18.md) — Ch. 18
+- [Saints arrive from England](volume-05/chapter-18.md) — Ch. 18
+- [Indian eloquence](volume-05/chapter-18.md) — Ch. 18
+- [Joseph on the resurrection](volume-05/chapter-19.md) — Ch. 19
+- [Directions for the labors of the Twelve](volume-05/chapter-19.md) — Ch. 19
+- [The Kinderhook plates](volume-05/chapter-19.md) — Ch. 19
+- [First issue of the "Nauvoo Neighbor"](volume-05/chapter-19.md) — Ch. 19
+- [New mission appointments, 1843](volume-05/chapter-19.md) — Ch. 19
+- [Salvation through knowledge](volume-05/chapter-20.md) — Ch. 20
+- [Aged men in councils](volume-05/chapter-20.md) — Ch. 20
+- [The eternity of the marriage covenant](volume-05/chapter-20.md) — Ch. 20
+- [The nature of matter](volume-05/chapter-20.md) — Ch. 20
+- [Prophecy on the head of Stephen A. Douglas](volume-05/chapter-20.md) — Ch. 20
+- [The work among Scandinavians in Illinois](volume-05/chapter-20.md) — Ch. 20
+- [Meaning of the word "Mormon"](volume-05/chapter-21.md) — Ch. 21
+- [Making your calling and election sure](volume-05/chapter-21.md) — Ch. 21
+- [Mission to the Society Islands opened](volume-05/chapter-21.md) — Ch. 21
+- [Character sketch of Joseph in the "Boston Bee"](volume-05/chapter-21.md) — Ch. 21
+- [Trial of Benjamin Winchester](volume-05/chapter-21.md) — Ch. 21
+- [Credentials of the Twelve](volume-05/chapter-22.md) — Ch. 22
+- [Conference at Manchester, England](volume-05/chapter-22.md) — Ch. 22
+- [Death of Judge Elias Higbee](volume-05/chapter-22.md) — Ch. 22
+- [Discourse: "The Purpose of Gathering"](volume-05/chapter-22.md) — Ch. 22
+- [Joseph's visit to Dixon, Lee County](volume-05/chapter-23.md) — Ch. 23
+- [Conditions in Nauvoo, 1843](volume-05/chapter-23.md) — Ch. 23
+- [World events of 1843](volume-05/chapter-23.md) — Ch. 23
+- [Joseph's arrest at Dixon and return to Nauvoo](volume-05/chapter-23.md) — Ch. 23
+- [Habeas corpus before the Nauvoo Municipal Court](volume-05/chapter-24.md) — Ch. 24
+- [Joseph's speech at Nauvoo after the Dixon arrest](volume-05/chapter-24.md) — Ch. 24
+- [Joseph discharged from custody](volume-05/chapter-24.md) — Ch. 24
+- [Aftermath of Joseph's release](volume-05/chapter-25.md) — Ch. 25
+- [Fourth of July celebration at Nauvoo, 1843](volume-05/chapter-25.md) — Ch. 25
+- [Appeals to Governor Ford to use military force](volume-05/chapter-25.md) — Ch. 25
+- [Further affidavits on affairs in Missouri](volume-05/chapter-25.md) — Ch. 25
+- [Joseph's love for mankind](volume-05/chapter-26.md) — Ch. 26
+- [Trial documents presented to Governor Ford](volume-05/chapter-26.md) — Ch. 26
+- [Revelation on eternal marriage and plural marriage](volume-05/chapter-26.md) — Ch. 26
+- [State of affairs in Nauvoo, 1843](volume-05/chapter-27.md) — Ch. 27
+- [Willard Richards](volume-05/chapter-27.md) — Ch. 27
+- [A political trick](volume-05/chapter-27.md) — Ch. 27
+- [The burden of Joseph's ministry](volume-05/chapter-27.md) — Ch. 27
+- [Joseph on politics](volume-05/chapter-27.md) — Ch. 27
+- [Movements of the Apostles, 1843](volume-05/chapter-27.md) — Ch. 27
+- [Joseph on the life and character of Judge Elias Higbee](volume-05/chapter-28.md) — Ch. 28
+- [Life and resurrection](volume-05/chapter-28.md) — Ch. 28
+- [Election-day troubles explained](volume-05/chapter-28.md) — Ch. 28
+- [Governor Ford refuses to side with Missouri](volume-05/chapter-28.md) — Ch. 28
+- [Anti-Mormon agitation at Carthage](volume-05/chapter-28.md) — Ch. 28
+- [Jonathan Dunham's report on western exploration](volume-05/chapter-28.md) — Ch. 28
+
+## Volume 6 (1843–1844)
+
+- [An assessment of Joseph as a religious leader](volume-06/chapter-01.md) — Ch. 1
+- [Anti-Mormon meeting at Carthage](volume-06/chapter-01.md) — Ch. 1
+- [Conference of the Twelve in Boston](volume-06/chapter-01.md) — Ch. 1
+- [Movements of the Apostles in the East](volume-06/chapter-02.md) — Ch. 2
+- [The Nauvoo Mansion](volume-06/chapter-02.md) — Ch. 2
+- [Rockwell acquitted](volume-06/chapter-02.md) — Ch. 2
+- [Joseph's discourse on the death of James Adams](volume-06/chapter-02.md) — Ch. 2
+- [Ancient ruins in America as Book of Mormon evidence](volume-06/chapter-03.md) — Ch. 3
+- [Joseph on the U.S. Constitution and the Bible](volume-06/chapter-03.md) — Ch. 3
+- [Letter to the U.S. presidential candidates](volume-06/chapter-03.md) — Ch. 3
+- [Joseph's address to the Saints](volume-06/chapter-03.md) — Ch. 3
+- [Correspondence between James Arlington Bennett and Joseph](volume-06/chapter-04.md) — Ch. 4
+- [Renewed petitions to Congress over Missouri](volume-06/chapter-04.md) — Ch. 4
+- [Joseph's appeal to the Green Mountain Boys of Vermont](volume-06/chapter-04.md) — Ch. 4
+- [Status of the Nauvoo Legion in the Illinois militia](volume-06/chapter-04.md) — Ch. 4
+- [The Avery kidnapping](volume-06/chapter-05.md) — Ch. 5
+- [Defensive preparations against Missouri mobs](volume-06/chapter-05.md) — Ch. 5
+- [Appeals to the federal government for protection](volume-06/chapter-05.md) — Ch. 5
+- [Nauvoo Legion offered as U.S. troops](volume-06/chapter-05.md) — Ch. 5
+- [City council memorial to Congress on Missouri](volume-06/chapter-06.md) — Ch. 6
+- [Rockwell returns to Nauvoo and recounts his adventures](volume-06/chapter-06.md) — Ch. 6
+- [Avery acquitted by Missouri courts](volume-06/chapter-06.md) — Ch. 6
+- [Nauvoo's police force increased](volume-06/chapter-06.md) — Ch. 6
+- [Joseph's correspondence with John C. Calhoun](volume-06/chapter-06.md#L485) — Ch. 7
+- [The Cartwright drowning case, England](volume-06/chapter-06.md#L485) — Ch. 7
+- [Fears of William Law and William Marks](volume-06/chapter-06.md#L485) — Ch. 7
+- [Anti-Mormon objections to Nauvoo ordinances](volume-06/chapter-06.md#L485) — Ch. 7
+- [Joseph's difficulties with Francis M. Higbee](volume-06/chapter-06.md#L485) — Ch. 7
+- [Regulating the sale of liquor in Nauvoo](volume-06/chapter-06.md#L485) — Ch. 7
+- [The Book of Mormon presented to Queen Victoria](volume-06/chapter-08.md) — Ch. 8
+- [The sealing powers of the priesthood](volume-06/chapter-08.md) — Ch. 8
+- [Governor Ford's warning to the people of Hancock County](volume-06/chapter-08.md) — Ch. 8
+- [Joseph nominated for President of the United States](volume-06/chapter-08.md) — Ch. 8
+- [Joseph's views on the powers and policy of the U.S. government](volume-06/chapter-08.md) — Ch. 8
+- [Comments on Joseph's presidential candidacy](volume-06/chapter-09.md) — Ch. 9
+- [Peace offers to Missouri](volume-06/chapter-09.md) — Ch. 9
+- [First steps toward the Church's move west](volume-06/chapter-09.md) — Ch. 9
+- [James A. Bennett and the vice-presidency](volume-06/chapter-09.md) — Ch. 9
+- [Urging the building of the Nauvoo Temple](volume-06/chapter-10.md) — Ch. 10
+- [Joseph's discourse on Elias, Elijah, and Messiah](volume-06/chapter-10.md) — Ch. 10
+- [Lyman Wight's proposal to move the Church southwest](volume-06/chapter-10.md) — Ch. 10
+- [Orson Pratt sent to Washington as Nauvoo's agent](volume-06/chapter-11.md) — Ch. 11
+- [Conspiracy of the Laws, Higbees, and Fosters against Joseph](volume-06/chapter-11.md) — Ch. 11
+- [Joseph's memorial to Congress](volume-06/chapter-11.md) — Ch. 11
+- [Occupation of the West considered](volume-06/chapter-11.md) — Ch. 11
+- [Nauvoo authorities vs. the Higbees](volume-06/chapter-12.md) — Ch. 12
+- [Dedication of the Masonic Hall](volume-06/chapter-12.md) — Ch. 12
+- [April 1844 conference: Sidney Rigdon's address](volume-06/chapter-12.md) — Ch. 12
+- [April 1844 conference: Hyrum Smith's address](volume-06/chapter-13.md) — Ch. 13
+- [Building the Nauvoo Temple](volume-06/chapter-13.md) — Ch. 13
+- [The King Follett Sermon](volume-06/chapter-14.md) — Ch. 14
+- [The character of God; God an exalted man](volume-06/chapter-14.md) — Ch. 14
+- [Eternal life is to know God and Jesus Christ](volume-06/chapter-14.md) — Ch. 14
+- [A council of the Gods](volume-06/chapter-14.md) — Ch. 14
+- [Meaning of the word "create"](volume-06/chapter-14.md) — Ch. 14
+- [The immortal intelligence; man's relation to God](volume-06/chapter-14.md) — Ch. 14
+- [Our greatest responsibility (the dead)](volume-06/chapter-14.md) — Ch. 14
+- [The unpardonable sin, forgiveness, and the second death](volume-06/chapter-14.md) — Ch. 14
+- [The whole of America is Zion](volume-06/chapter-15.md) — Ch. 15
+- [Instructions to elders called on missions](volume-06/chapter-15.md) — Ch. 15
+- [General conference in England, 1844](volume-06/chapter-15.md) — Ch. 15
+- [Difficulties with the Higbees and Fosters](volume-06/chapter-16.md) — Ch. 16
+- [Instructions to Reuben Hedlock, president of the British Mission](volume-06/chapter-16.md) — Ch. 16
+- [Francis M. Higbee's lawsuit against Joseph](volume-06/chapter-16.md) — Ch. 16
+- [Joseph on his prophetic calling and the resurrection](volume-06/chapter-17.md) — Ch. 17
+- [Orson Hyde's report from Washington on moving west; Oregon](volume-06/chapter-17.md) — Ch. 17
+- [The state presidential convention at Nauvoo](volume-06/chapter-18.md) — Ch. 18
+- [John S. Reid's speech: early days with Joseph](volume-06/chapter-18.md) — Ch. 18
+- [Charges against Joseph before the circuit court](volume-06/chapter-19.md) — Ch. 19
+- [Joseph voluntarily appears in court](volume-06/chapter-19.md) — Ch. 19
+- [Affidavits on the crimes of Chauncey L. Higbee](volume-06/chapter-20.md) — Ch. 20
+- [The "Nauvoo Expositor" appears](volume-06/chapter-20.md) — Ch. 20
+- [Destruction of the "Nauvoo Expositor"](volume-06/chapter-21.md) — Ch. 21
+- [Joseph arrested for riot over the "Expositor"](volume-06/chapter-22.md) — Ch. 22
+- [Joseph's dreams](volume-06/chapter-22.md) — Ch. 22
+- [Mass meetings at Warsaw](volume-06/chapter-22.md) — Ch. 22
+- [Letters to Governor Ford on the "Expositor"](volume-06/chapter-22.md) — Ch. 22
+- [Joseph's discourse on the Godhead](volume-06/chapter-23.md) — Ch. 23
+- [The mob uprising](volume-06/chapter-23.md) — Ch. 23
+- [Rumors of invasion from Missouri](volume-06/chapter-24.md) — Ch. 24
+- [Nauvoo placed under martial law](volume-06/chapter-24.md) — Ch. 24
+- [Joseph's address to the Nauvoo Legion](volume-06/chapter-24.md) — Ch. 24
+- [Attempts to draft Saints into the mob against Nauvoo](volume-06/chapter-25.md) — Ch. 25
+- [The Twelve called home from the eastern mission](volume-06/chapter-26.md) — Ch. 26
+- [Governor Ford at Carthage](volume-06/chapter-26.md) — Ch. 26
+- [Threats and conspiracy against Joseph's life](volume-06/chapter-26.md) — Ch. 26
+- [Preparations to defend Nauvoo](volume-06/chapter-27.md) — Ch. 27
+- [Governor Ford's and Joseph's accounts of the Hancock County troubles](volume-06/chapter-27.md) — Ch. 27
+- [John Taylor's account of the interview with Governor Ford](volume-06/chapter-28.md) — Ch. 28
+- [End of Joseph's journal narrative](volume-06/chapter-28.md) — Ch. 28
+- [Joseph starts for the Rocky Mountains, then returns](volume-06/chapter-29.md) — Ch. 29
+- [The counsel of false brethren](volume-06/chapter-29.md) — Ch. 29
+- [Surrender and arrival at Carthage](volume-06/chapter-29.md) — Ch. 29
+- [Joseph and Hyrum arrested for treason](volume-06/chapter-30.md) — Ch. 30
+- [John Taylor's protest against false imprisonment](volume-06/chapter-30.md) — Ch. 30
+- [Governor Ford interviews Joseph in Carthage Jail](volume-06/chapter-31.md) — Ch. 31
+- [Evidence of a conspiracy at Carthage against Joseph's life](volume-06/chapter-31.md) — Ch. 31
+- [Joseph in Carthage Jail](volume-06/chapter-32.md) — Ch. 32
+- [The last night in jail](volume-06/chapter-32.md) — Ch. 32
+- [The day of the Martyrdom: warnings to Governor Ford](volume-06/chapter-33.md) — Ch. 33
+- [The Carthage Greys as guards](volume-06/chapter-33.md) — Ch. 33
+- [The attack on Carthage Jail](volume-06/chapter-34.md) — Ch. 34
+- [The Martyrdom of Joseph and Hyrum Smith](volume-06/chapter-34.md) — Ch. 34
+- [News of the Martyrdom reaches Nauvoo](volume-06/chapter-35.md) — Ch. 35
+- [Arrival of the bodies and the burial](volume-06/chapter-35.md) — Ch. 35
+
+## Volume 7 (1844–1848)
+
+- [Governor Ford reviews conditions in Hancock County](volume-07/chapter-01.md) — Ch. 1
+- [Nauvoo Legion's state arms surrendered](volume-07/chapter-01.md) — Ch. 1
+- [Joseph submits to the governor's demands](volume-07/chapter-02.md) — Ch. 2
+- [Governor Ford's defense of his handling of the forces at Carthage](volume-07/chapter-02.md) — Ch. 2
+- [Governor Ford's visit and speech at Nauvoo](volume-07/chapter-03.md) — Ch. 3
+- [Ford hears of the assassination of Joseph and Hyrum](volume-07/chapter-03.md) — Ch. 3
+- [Ford's history of Illinois (extended quotations)](volume-07/chapter-03.md) — Ch. 3
+- [Governor Ford on the character of Joseph and his followers](volume-07/chapter-04.md) — Ch. 4
+- [Ford's speculation on the future of Mormonism](volume-07/chapter-04.md) — Ch. 4
+- [Politics after the Martyrdom](volume-07/chapter-05.md) — Ch. 5
+- [The "trial" of the murderers](volume-07/chapter-05.md) — Ch. 5
+- [John Taylor's memoirs: Governor Ford's responsibility](volume-07/chapter-05.md) — Ch. 5
+- [Conditions in Illinois before the Martyrdom](volume-07/chapter-06.md) — Ch. 6
+- [Taylor and Bernhisel's interview with Governor Ford](volume-07/chapter-07.md) — Ch. 7
+- [Ford's pledge of safety if Joseph came to Carthage](volume-07/chapter-07.md) — Ch. 7
+- [Interview between Joseph and Governor Ford](volume-07/chapter-08.md) — Ch. 8
+- [The assault on the jail and the murder of Joseph and Hyrum](volume-07/chapter-09.md) — Ch. 9
+- [Was Governor Ford responsible for the murders?](volume-07/chapter-10.md) — Ch. 10
+- [Events surrounding the Martyrdom, June 22–29, 1844](volume-07/chapter-11.md) — Ch. 11
+- [Keeping the peace after the Martyrdom](volume-07/chapter-12.md) — Ch. 12
+- [Names of the mob at Carthage](volume-07/chapter-12.md) — Ch. 12
+- [The Martyrdom in poetry](volume-07/chapter-13.md) — Ch. 13
+- [Food and protection for the people of Nauvoo](volume-07/chapter-13.md) — Ch. 13
+- [U.S. press reaction to the murders](volume-07/chapter-14.md) — Ch. 14
+- [Documents, press excerpts, and movements of leading elders](volume-07/chapter-15.md) — Ch. 15
+- [Movements of the Apostles in the East and at Nauvoo](volume-07/chapter-16.md) — Ch. 16
+- [Communication from Governor Ford](volume-07/chapter-16.md) — Ch. 16
+- [The Twelve gather at Nauvoo](volume-07/chapter-17.md) — Ch. 17
+- [Death of Samuel H. Smith](volume-07/chapter-17.md) — Ch. 17
+- [Preliminary meetings on the presidency of the Church](volume-07/chapter-18.md) — Ch. 18
+- [Succession: the Twelve sustained, with Brigham Young at their head](volume-07/chapter-19.md) — Ch. 19
+- [Church activity resumes after the succession](volume-07/chapter-20.md) — Ch. 20
+- [Continuing Joseph's policies](volume-07/chapter-20.md) — Ch. 20
+- [Trial and excommunication of Sidney Rigdon](volume-07/chapter-21.md) — Ch. 21
+- [James Emmett's restless movements](volume-07/chapter-21.md) — Ch. 21
+- [Missionary activity, 1844](volume-07/chapter-21.md) — Ch. 21
+- [Epistle of the Twelve: moral and spiritual guidance](volume-07/chapter-22.md) — Ch. 22
+- [October 1844 conference: the Church set in order](volume-07/chapter-23.md) — Ch. 23
+- [Duties of the priesthood explained](volume-07/chapter-23.md) — Ch. 23
+- [Steps toward prosecuting the murderers of Joseph and Hyrum](volume-07/chapter-24.md) — Ch. 24
+- [The work in the Society Islands](volume-07/chapter-24.md) — Ch. 24
+- [Temple affairs and financial difficulty](volume-07/chapter-24.md) — Ch. 24
+- [Progress on the Nauvoo Temple](volume-07/chapter-25.md) — Ch. 25
+- [The great conference of the Seventies](volume-07/chapter-26.md) — Ch. 26
+- [Dedication of the Seventies' Hall](volume-07/chapter-26.md) — Ch. 26
+- [Brigham Young on priesthood: the Twelve, the Seventy, and the Bishopric](volume-07/chapter-26.md) — Ch. 26
+- [Campaign against wickedness in Nauvoo](volume-07/chapter-27.md) — Ch. 27
+- [Continued progress in Nauvoo, Europe, and the United States](volume-07/chapter-28.md) — Ch. 28
+- [Plea for the return of James Emmett's company](volume-07/chapter-28.md) — Ch. 28
+- [Official visit to James Emmett's company](volume-07/chapter-29.md) — Ch. 29
+- [April 1845 conference](volume-07/chapter-29.md) — Ch. 29
+- [Governor Ford proposes a move west](volume-07/chapter-29.md) — Ch. 29
+- [Appeal to Lyman Wight to unite with the Twelve](volume-07/chapter-30.md) — Ch. 30
+- [Letters to the U.S. President and state governors](volume-07/chapter-30.md) — Ch. 30
+- [Seeking an understanding with the state government](volume-07/chapter-31.md) — Ch. 31
+- [Harvest feast at Nauvoo](volume-07/chapter-31.md) — Ch. 31
+- [Preparations for the westward journey](volume-07/chapter-32.md) — Ch. 32
+- [The Church must leave Illinois](volume-07/chapter-32.md) — Ch. 32
+- [The American government fails the Saints](volume-07/chapter-32.md) — Ch. 32
+- [Last conference at Nauvoo](volume-07/chapter-33.md) — Ch. 33
+- [Plea of Lucy Mack Smith, "Mother of Prophets"](volume-07/chapter-33.md) — Ch. 33
+- [Official message on the Church's removal to the West](volume-07/chapter-34.md) — Ch. 34
+- [Oliver Cowdery offers his services](volume-07/chapter-34.md) — Ch. 34
+- [The power of prayer vs. mobocracy](volume-07/chapter-34.md) — Ch. 34
+- [Important letters, friendly and otherwise](volume-07/chapter-35.md) — Ch. 35
+- [Murders by mobs continue](volume-07/chapter-36.md) — Ch. 36
+- [Confession of Dr. Robert D. Foster](volume-07/chapter-36.md) — Ch. 36
+- [Orson Pratt's farewell to the eastern Saints](volume-07/chapter-36.md) — Ch. 36
+- [The Durfee murder case](volume-07/chapter-36.md) — Ch. 36
+- [Parts of the Nauvoo Temple dedicated; endowments given](volume-07/chapter-37.md) — Ch. 37
+- [Catholic efforts to buy the temple and Nauvoo property](volume-07/chapter-37.md) — Ch. 37
+- [Federal counterfeiting charges against Church leaders](volume-07/chapter-37.md) — Ch. 37
+- [Large numbers endowed in the temple, early 1846](volume-07/chapter-38.md) — Ch. 38
+- [The Twelve's departure hastened by Governor Ford's false reports](volume-07/chapter-38.md) — Ch. 38
+- [Brigham Young leaves Nauvoo](volume-07/chapter-39.md) — Ch. 39
+- [The "A. G. Benson & Co." proposition](volume-07/chapter-39.md) — Ch. 39
+- [Crossing the frozen Mississippi](volume-07/chapter-39.md) — Ch. 39
+- [The exodus from Nauvoo begins](volume-07/chapter-39.md) — Ch. 39
+- [The camp on the march, February–June 1846](volume-07/chapter-40.md) — Ch. 40
+- [Return to Winter Quarters](volume-07/chapter-41.md) — Ch. 41
+- [The First Presidency reorganized: Brigham Young, Heber C. Kimball, Willard Richards](volume-07/chapter-41.md) — Ch. 41
+- [Brigham Young's last journey over the plains](volume-07/chapter-41.md) — Ch. 41
